@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RichardKroesen
-- 👀 I’m interested in Embedded Systems: IoT, Microcontrollers etc. 
+- 👀 I’m interested in Embedded Systems: IoT, Microcontrollers and Robotics. 
 - 🌱 I’m currently mastering C++
 - 📫 How to reach me LinkedIn messages.
 
