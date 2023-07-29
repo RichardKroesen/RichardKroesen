@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @RichardKroesen
+- 📃 **PRIMARY** Life Activity: 3rd year Embedded Systems Engineering Student @Hogeschool Arnhem Nijmegen (HAN University of Applied Sciences) 
 - 👀 I’m interested in Embedded Systems: IoT, Microcontrollers and Robotics. 
-- 🌱 I’m currently mastering C++
-- 📫 How to reach me LinkedIn messages.
-
-<!---
-RichardKroesen/RichardKroesen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m building experience in C++ and Embedded Systems.
+- 💻 Working (as a side job) at Royal Eijkelkamp in the R&D department, mostly on Embedded Software, IoT and agriculture applications. 
+- 📫 How to reach me: via LinkedIn messages or email me kroesen.ri@gmail.com.
