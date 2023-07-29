@@ -3,4 +3,4 @@
 - 👀 I’m interested in Embedded Systems: IoT, Microcontrollers and Robotics. 
 - 🌱 I’m building experience in C++ and Embedded Systems.
 - 💻 Working (as a side job) at Royal Eijkelkamp in the R&D department, mostly on Embedded Software, IoT and agriculture applications. 
-- 📫 How to reach me: via LinkedIn messages or email me kroesen.ri@gmail.com.
+- 📫 How to reach me: via [**LinkedIn**](https://www.linkedin.com/in/richardkroesen/) messages or email me kroesen.ri@gmail.com.
